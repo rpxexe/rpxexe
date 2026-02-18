@@ -1,6 +1,6 @@
 <!-- Tokyo Blue Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Rishabh%20Vishwakarma&fontAlignY=33&textBg=false&desc=Full-Stack%20Developer%20|%20GenAI%20|%20SystemFocused&animation=fadeIn&descAlignY=54"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Rishabh%20Vishwakarma&fontAlignY=33&textBg=false&desc=Full-Stack%20Developer%20|%20GenAI%20|%20System-Focused&animation=fadeIn&descAlignY=54"/>
 </p><p align="center">
   <a href="https://www.linkedin.com/in/rpxexe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
