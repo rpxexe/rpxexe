@@ -85,15 +85,17 @@ I’m actively looking to contribute to **high-impact engineering teams** workin
 </p>
 
 ---
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rpxexe&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
+<h2 align="center">🔝 Top Contributed Repo<h2>
+  <p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=rpxexe&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  </p>
+  
+--- 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🤝 Let’s Connect
 
 - 💼 Open to collaboration on **backend-heavy / full-stack projects**
 - 📈 Interested in **scalable systems, infra & performance**
 - 📫 Reach me at **111rishwakarma@gmail.com**
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
