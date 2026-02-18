@@ -22,14 +22,13 @@ Full-Stack Developer focused on building **AI-powered SaaS products** using mode
 I specialize in integrating **LLMs, intelligent automation, and scalable backend systems** into production-grade web applications.
 
 I work at the intersection of **AI + SaaS architecture**, emphasizing performance, reliability, and clean system design.
-
-- Building scalable SaaS backends with Node.js, Express & Next.js  
-- Developing AI-integrated workflows using LLM APIs & prompt engineering  
-- Designing multi-tenant, production-ready database systems (PostgreSQL, MongoDB, MySQL)  
-- Using Prisma & Mongoose for structured, type-safe data layers  
-- Creating high-performance frontends with React, Redux & Vite  
-- Engineering automation systems & agent-based task execution  
-- Writing clean, modular, scalable production code  
+ 
+- 🔭 Currently focused on: FullStack (Frontend ⚡ + Backend 💾 + AI 🧠)
+- 🌱 On a mission to master Fullstack Engineering ❤️
+- 💻 Love building clean, scalable, production-ready apps
+- 📖 Always diving into docs like it’s my daily newspaper 📰
+- ☁️ 2026 Goal: Level up on GenAI & LLM
+- 🤯 Fun Fact: `==` and `===` — not the same. JS be wild. 
 
 
 I’m actively looking to contribute to **high-impact engineering teams** working on **complex, large-scale systems**.
