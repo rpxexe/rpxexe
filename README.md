@@ -1,19 +1,18 @@
 <!-- Tokyo Blue Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Rishabh%20Vishwakarma&fontAlignY=33&textBg=false&desc=Full-Stack%20Developer%20|%20GenAI%20|%20SystemFocused&animation=fadeIn&descAlignY=51"/>
-</p>
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Rishabh%20Vishwakarma&fontAlignY=33&textBg=false&desc=Full-Stack%20Developer%20|%20GenAI%20|%20SystemFocused&animation=fadeIn&descAlignY=54"/>
+</p><p align="center">
   <a href="https://www.linkedin.com/in/rpxexe">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=flat-square&logo=linkedin&logoColor=7AA2F7"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:111rishwakarma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A1B26?style=flat-square&logo=gmail&logoColor=7AA2F7"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_rpx.dev/">
-    <img src="https://img.shields.io/badge/Instagram-1A1B26?style=flat-square&logo=instagram&logoColor=7AA2F7"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
@@ -87,9 +86,15 @@ I’m actively looking to contribute to **high-impact engineering teams** workin
 </p>
 
 ---
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rpxexe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 ## 🤝 Let’s Connect
 
 - 💼 Open to collaboration on **backend-heavy / full-stack projects**
 - 📈 Interested in **scalable systems, infra & performance**
 - 📫 Reach me at **111rishwakarma@gmail.com**
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
