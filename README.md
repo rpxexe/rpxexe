@@ -1,6 +1,6 @@
 <!-- Tokyo Blue Gradient Banner -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=220&section=header&text=Rishabh%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20GenAI%20%7C%20Systems-Focused&descAlignY=68&descSize=18](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rishabh%20Vishwakarma&fontAlignY=33&textBg=false&desc=Full-Stack%20Developer%20|%20GenAI%20|%20SystemFocused&animation=fadeIn&descAlignY=51)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rishabh%20Vishwakarma&fontAlignY=33&textBg=false&desc=Full-Stack%20Developer%20|%20GenAI%20|%20SystemFocused&animation=fadeIn&descAlignY=51"/>
 </p>
 
 <p align="center">
