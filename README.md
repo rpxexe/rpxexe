@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 Full-Stack Developer focused on building **AI-powered SaaS products** using modern JavaScript/TypeScript ecosystems.  
 I specialize in integrating **LLMs, intelligent automation, and scalable backend systems** into production-grade web applications.
