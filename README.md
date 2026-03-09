@@ -72,6 +72,7 @@ I’m actively looking to contribute to **high-impact engineering teams** workin
 ### 🧩 ORM / ODM
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
+
 ### ☁ Hosting / SaaS
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white) 
