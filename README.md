@@ -68,14 +68,22 @@ const rishabh = {
 ---
 
 ## 🚀 Featured Projects
-
-| Project | Overview | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **AssetsVista** | Enterprise IT Asset Management (ITAM) platform inspired by Snipe-IT | Next.js 16 · React 19 · TypeScript · MongoDB | [Repo](https://github.com/rpxexe/AssetsVista) · [Live](https://assets-vista.vercel.app) |
-| **Brainflow** | Intelligent workflow automation platform | Next.js · TypeScript | [Repo](https://github.com/rpxexe/brainflow) · [Live](https://brainflow-zeta.vercel.app) |
-| **Arcix** | Remote desktop application with dark glassmorphic UI & native Windows integration | Electron 34 · React 19 · TypeScript | [Repo](https://github.com/rpxexe/Arcix) · [Live](https://aerodesk-tau.vercel.app) |
-| **Avodah & Khen LLP** | Real estate & property intelligence web platform | Next.js · TypeScript | [Repo](https://github.com/rpxexe/avodah-group) · [Live](https://avodah-group.vercel.app) |
-
+<p align="center">
+  <a href="https://github.com/rpxexe/AssetsVista">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rpxexe&repo=AssetsVista&theme=tokyonight&hide_border=true" alt="AssetsVista" />
+  </a>
+  <a href="https://github.com/rpxexe/brainflow">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rpxexe&repo=brainflow&theme=tokyonight&hide_border=true" alt="brainflow" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/rpxexe/Arcix">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rpxexe&repo=Arcix&theme=tokyonight&hide_border=true" alt="Arcix" />
+  </a>
+  <a href="https://github.com/rpxexe/avodah-group">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rpxexe&repo=avodah-group&theme=tokyonight&hide_border=true" alt="avodah-group" />
+  </a>
+</p>
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
