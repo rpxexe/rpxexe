@@ -100,9 +100,9 @@ const rishabh = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suchipandey9264/REPO-NAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suchipandey9264/REPO-NAME/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/suchipandey9264/REPO-NAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rpxexe/rpxexe/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rpxexe/rpxexe/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/rpxexe/rpxexe/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
   </picture>
 </p>
 
