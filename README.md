@@ -119,7 +119,7 @@ const rishabh = {
 
 - 💼 Open to collaboration on **backend-heavy / full-stack & AI-powered SaaS projects**
 - 📈 Interested in **scalable systems, infra & performance engineering**
-- 📫 Reach me at **[111rishwakarma@gmail.com](mailto:111rishwakarma@gmail.com)** or visit **[rpxexe.github.io/Rishabh](https://rpxexe.github.io/Rishabh)**
+- 📫 Reach me at **[111rishwakarma@gmail.com](mailto:111rishwakarma@gmail.com)** or visit **[rpxexe.vercel.app](https://rpxexe.vercel.app/)**
 
 <!-- Tokyo Night Footer Banner -->
 <p align="center">
