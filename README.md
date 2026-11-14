@@ -107,10 +107,6 @@ const rishabh = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rpxexe&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rpxexe&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rpxexe&theme=tokyonight" alt="Repos by Language" />
 </p>
