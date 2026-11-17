@@ -12,7 +12,7 @@
 
 <!-- Socials & Profile Views -->
 <p align="center">
-  <a href="https://rpxexe.github.io/Rishabh">
+  <a href="https://rpxexe.vercel.app">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-7AA2F7?style=for-the-badge&logo=globe&logoColor=1a1b26" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/rpxexe">
